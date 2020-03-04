@@ -2,8 +2,7 @@
 
 This is the first file in this repo
 
-## Ipsum Below
+## Website Contents
 
-I'm baby meh neutra fixie semiotics. Tilde fam photo booth master cleanse. Synth artisan succulents intelligentsia, stumptown cred tattooed roof party flannel lumbersexual meggings la croix leggings jianbing. Franzen pitchfork drinking vinegar, beard cold-pressed jean shorts 3 wolf moon cliche pop-up fixie.
+1. index.html
 
-agshhaghagshgfahgsghagsjgahgshjashg a gsy gasdgagshdgjhaggds adyagsdhgaj
